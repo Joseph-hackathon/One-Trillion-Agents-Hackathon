@@ -15,24 +15,31 @@ Our project is an AI chatbot-based portfolio management and DeFi automation plat
    - This approach transforms DeFi trading and portfolio management into a fun, engaging, and educational experience rather than just another financial tool.  
 
 ## Solution  
-- AI-Powered Chatbot: Automates portfolio tracking and DeFi trading  
-- Gamification: Earn XP through conversations and transactions to level up your AI agent  
-- Multi-Wallet Support: Seamless asset management with Near & Bitte wallets  
-- Cross-Chain Trading  
-- Workflow Automation  
+1. **AI-Powered DeFi Management** – The AI agent automates DeFi transactions like swaps, bridges, and staking, simplifying portfolio management.  
 
-## Key Features  
-- AI Chatbot – Portfolio management and DeFi automation  
-- Gamification – Earn XP and level up your AI agent through interactions and trades  
-- Multi-Wallet Support – Integration with Near & Bitte wallets  
-- Cross-Chain Trading  
-- Workflow Automation  
-- Personalized AI Growth – Train and evolve your AI agent like a virtual pet  
+2. **Interactive & Gamified Experience** – Users earn experience points (XP) through transactions and chatbot interactions, leveling up their agent bot as a personalized digital asset manager.  
 
-## Business Model 
-- Subscription Model – Premium users get advanced analytics and automation features  
-- Transaction Fees – Small fees on automated trades  
-- In-App Purchases – XP boosts, chatbot customization, premium AI agents  
+3. **Educational & Engaging Learning** – Users explore multiple networks, learn about DeFi through conversations, and grow both their portfolio and financial knowledge in a fun, engaging way.
+
+## Key Features 
+1. **AI Agent for DeFi Management** – Automates swaps, bridges, and staking to optimize portfolio management.  
+2. **Gamified Experience** – Users earn XP through transactions and chatbot interactions, leveling up their agent bot.  
+3. **Personalized AI Companion** – Each agent bot evolves uniquely based on user engagement and trading activity.  
+4. **Multi-Network & Cross-Chain Support** – Enables seamless transactions across various blockchain ecosystems.  
+5. **Educational Chatbot** – Provides real-time insights, DeFi education, and market updates through interactive conversations.  
+6. **Daily Quests & Rewards** – Encourages user engagement with tasks that offer XP and additional incentives.  
+7. **Customizable Character Growth** – Users can shape their agent bot’s appearance and abilities as it levels up.
+
+## Business Model  
+**1. Subscription & Premium Features**  
+- **Free Tier** – Basic portfolio tracking and chatbot interactions.  
+- **Premium Subscription** – Advanced DeFi automation, personalized insights, and enhanced AI analytics.  
+- **NFT-Based Access** – Exclusive features for users holding chatbot character NFTs.  
+
+**2. Transaction & Ecosystem Fees**  
+- **DeFi Transaction Fees** – Small percentage fee on automated swaps, staking, and bridging.  
+- **Marketplace Revenue** – Revenue from trading chatbot character NFTs.  
+- **Partnerships & Integrations** – Collaborations with DeFi protocols for integrated services and revenue-sharing models.
 
 ## Diagram (Mermaid Code) 
 ```mermaid
@@ -73,4 +80,21 @@ sequenceDiagram
     AI_Chatbot-->>User: Automation successful!
 ```
 
-Transforming DeFi automation and portfolio management into a fun, interactive, and engaging experience with AI-powered agents.
+## Project Timeline 
+
+**Q1 – MVP Completion & Core Integrations**  
+- Finalize **MVP development**  
+- Integrate **NEAR Protocol**  
+- Implement **Bitte Wallet**  
+- Connect **Frax Finance**  
+
+**Q2 – Expansion & Widget Development**  
+- Develop **Chatbot Widget Chrome Extension**  
+- Begin **Mobile Widget Development**  
+
+**Q3 – Gamification & NFT Integration**  
+- Develop **Dynamic NFT Smart Contract** for chatbot characters  
+- **Mint & Launch 12,000 Chatbot Character NFTs**  
+
+**Q4 – Advanced AI & DeFi Optimization**  
+- Release **Agent DeFi Analysis & Learning v2.0** for enhanced portfolio management and automation  
