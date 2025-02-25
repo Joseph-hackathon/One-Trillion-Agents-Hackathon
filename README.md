@@ -1,5 +1,7 @@
 # Nero
 
+[Demo](https://devpost.com/software/nearssist/joins/U47pUUw9Cs8dGkD4eHdetQ)
+
 ## Overview  
 Our project is an AI chatbot-based portfolio management and DeFi automation platform. By incorporating gamification, users can track their assets, execute trades, and grow their AI agents, making portfolio management a fun and educational experience.  
 
